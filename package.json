@@ -1,15 +1,16 @@
 {
-  "name": "language-sas",
+  "name": "language-sas-ext",
+  "version": "0.2.5",
   "description": "SAS support in Atom",
   "keywords": [
     "language",
+    "grammar",
     "sas",
     "macro",
     "syntax",
     "snippet"
   ],
-  "version": "0.2.4",
-  "repository": "https://github.com/akanosora/language-sas",
+  "repository": "https://github.com/cnlangness/language-sas",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"

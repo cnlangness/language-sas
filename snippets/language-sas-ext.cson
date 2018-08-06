@@ -1,4 +1,7 @@
-'.source.sas':
+# If you want some example snippets, check out:
+# https://github.com/atom/language-javascript/blob/master/snippets/javascript.cson
+
+'.source.sas-ext':
   'comment':
     'prefix': 'co'
     'body': '/* $1 */$0'
