@@ -10,7 +10,7 @@
     "syntax",
     "snippet"
   ],
-  "repository": "https://github.com/cnlangness/language-sas",
+  "repository": "https://github.com/cnlangness/language-sas-ext",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
